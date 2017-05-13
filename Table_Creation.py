@@ -21,3 +21,7 @@ cursor.execute(sql)
 
 # disconnect from server
 db.close()
+
+
+# Added few changes
+print('hello world')
